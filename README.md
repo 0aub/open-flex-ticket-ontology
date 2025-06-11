@@ -94,11 +94,10 @@ Run `engine.run()` once—no Python code edits, no DB migrations.
 
 ---
 
-## 7  Limitations & Next Steps
+## 7  Limitations
 
 * Synthetic dataset only ⇒ import real ticket logs.  
 * Single-thread materialisation ⇒ evaluate multi-core reasoners.  
-* Replace SQLite with a production graph DB for persistence & concurrency.
 
 ---
 
@@ -108,13 +107,6 @@ Run `engine.run()` once—no Python code edits, no DB migrations.
 M. Vanden Bossche, L. Guizol, R. Le Brouster,  
 "Ontologies and Semantic Rules in Real Life", RuleML+RR Companion, 2024.
 ```
-
----
-
-## 9  License
-
-MIT — free for academic or commercial use.  
-Images copied from the RuleML paper remain © their authors.
 
 ---
 
