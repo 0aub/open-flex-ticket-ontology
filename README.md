@@ -23,9 +23,7 @@ This repository **re-creates** that approach with _public, lightweight tools_ an
 | **Ontology** | 7 classes (`Person`, `Student`, `Employer`, `Ticket`, `FlexibleSeasonTicket`, `Warning`, `TravelAboPrice`) + 8 properties |
 | **Rule engine** | 200-line `TextRuleEngine` that understands the paper’s textual-SWRL syntax (aggregates, NAF, existential “function of”) |
 | **Core rules from paper** | `age-of-client` • `travel-pass-have-prices` • `zone-and-places-…` |
-| **Extra business rules** | * Student – 20 % discount  
-* Peak +15 %  
-* Multi-modal + €25 |
+| **Extra business rules** | * Student – 20 % discount, * Peak +15 %, * Multi-modal + €25 |
 | **Data generator** | 10 employers • 500 travellers • distributions: 15 % students, 35 % peak, 25 % multimodal |
 | **Plots & metrics** | KPI bar-chart, latency histogram, employer-contribution warnings |
 | **Performance** | 5 000 ontology look-ups → **2.2 µs mean** / **458 k qps** on single Colab core |
