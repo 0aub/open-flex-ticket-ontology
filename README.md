@@ -34,20 +34,6 @@ Everything lives in a single Jupyter/Colab notebook (`Re_Implementation_and_Exte
 
 ---
 
-## 3  Quick Start 🚀
-
-```bash
-# clone and open the notebook (Colab or Jupyter)
-git clone https://github.com/<you>/open-flex-ticket-ontology.git
-```
-
-1. Run the notebook top-to-bottom.  
-2. Generated files appear in `figs/` and `rail_demo_with_text_rules.owl`.
-
-_No external datasets or credentials required._
-
----
-
 ## 4  Repository Structure
 
 ```
