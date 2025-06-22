@@ -97,7 +97,7 @@ M. Vanden Bossche, L. Guizol, R. Le Brouster,
 
 For a complete write-up of the project, including background, methodology, and evaluation:
 
-👉 [Download the full PDF report](An_Open-Source_Re-Implementation_and_Extension_of_the_Belgian_Railways_Ontology-Centric_Pricing_Engine.pdf)
+👉 [Download the full PDF report](An%Open-Source%Re-Implementation%and%Extension%of%the%Belgian%Railways%Ontology-Centric%Pricing%Engine.pdf)
 
 
 ---
