@@ -43,6 +43,7 @@ Everything lives in a single Jupyter/Colab notebook (`Re_Implementation_and_Exte
 ├── rail_demo_with_text_rules.owl
 ├── open_flex_ticket_ontology_slides.pptx
 ├── report.tex
+├── An_Open-Source_Re-Implementation_..._Pricing_Engine.pdf
 └── README.md
 ```
 
@@ -91,6 +92,13 @@ Run `engine.run()` once—no Python code edits, no DB migrations.
 M. Vanden Bossche, L. Guizol, R. Le Brouster,  
 "Ontologies and Semantic Rules in Real Life", RuleML+RR Companion, 2024.
 ```
+
+## 9  Downloadable Report 📄
+
+For a complete write-up of the project, including background, methodology, and evaluation:
+
+👉 [Download the full PDF report](An Open-Source Re-Implementation and Extension of the Belgian Railways Ontology-Centric Pricing Engine.pdf)
+
 
 ---
 
